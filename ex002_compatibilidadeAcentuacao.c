@@ -7,9 +7,9 @@ void main() {
     printf("\n\n=-=-=-=-=-=-=-=-=-==-=-=-=-=-=");
     printf("\n \\a\t=\tBeep");
     printf("\n \\n\t=\tNova linha");
-    printf("\n \\t\t=\tTabulação");
+    printf("\n \\t\t=\tTabulaÃ§Ã£o");
     printf("\n \\\\\t=\tBarra");
     printf("\n %%%%\t=\tPorcentagem");
-    printf("\n \\\?\t=\tInterrogação");
+    printf("\n \\\?\t=\tInterrogaÃ§Ã£o");
     printf("\n=-=-=-=-=-=-=-=-=-==-=-=-=-=-=\n");
 }
