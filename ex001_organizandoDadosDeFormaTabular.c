@@ -9,6 +9,6 @@ void main()
     printf("\n ---------------------");
     printf("\n Ana Beatriz\t8.5");
     printf("\n Bianca Martins\t9.0");
-    printf("\n Cl·udio S·\t5.5");
+    printf("\n Cl√°udio S√°\t5.5");
     printf("\n Giovana Silva\t7.5\n");
 }
