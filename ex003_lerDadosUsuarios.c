@@ -12,12 +12,12 @@ printf("<<< EX003 - Dados >>>");
 printf("\n\nQual o seu nome? ");
 gets(nome);
 
-printf("Quantos anos você tem? ");
+printf("Quantos anos vocÃª tem? ");
 scanf("%d", &idade);
 
-printf("Qual é o seu peso? (Kg) ");
+printf("Qual Ã© o seu peso? (Kg) ");
 scanf("%f", &peso);
 
 printf("\n-------<<< PROCESSANDO >>>-------");
-printf("\nMuito prazer, %s. Você tem %d anos e pesa %.2fKg correto? ", nome, idade, peso);
+printf("\nMuito prazer, %s. VocÃª tem %d anos e pesa %.2fKg correto? ", nome, idade, peso);
 }
