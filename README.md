@@ -1,4 +1,4 @@
-# Curso de Linguagem C – Estudonauta (Prof. Gustavo Guanabara)
+# Curso de Linguagem C – Estudonauta - Prof. Gustavo Guanabara
 
 Exercícios práticos desenvolvidos durante o curso de Linguagem C do Estudonauta, ministrado pelo Professor Gustavo Guanabara. Cada exercício inclui o enunciado original e a solução implementada por Arthur Martins Alves.
 
